@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**emmanuelajayi-data/emmanuelajayi-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Emmanuel Ajayi 👋
 
-Here are some ideas to get you started:
+I'm a **Data Analyst** and 300L **Microbiology** undergraduate at the University of Ilorin, focused on turning complex datasets into clear, actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack & Tools
+- **Programming & Analysis:** Python (Pandas, NumPy), SQL (Microsoft SQL Server)
+- **Visualization & Spreadsheets:** Power BI, Microsoft Excel, Google Sheets
+- **Workflow & Environments:** Git, GitHub, Jupyter Notebook, Google Colab
+
+#### 📌 What I'm Working On
+- Building end-to-end data analysis projects across business and healthcare/biological datasets
+- Exploring computational biology and bioinformatics workflows
+
+#### 📫 Connect With Me
+- **LinkedIn:** [Emmanuel Ajayi](https://www.linkedin.com/in/emmanuel-ajayi-3b16273a6)
+- **X (Twitter):** [@temsweb3](https://x.com/temsweb3)
