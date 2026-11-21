@@ -1,4 +1,4 @@
-<img width="1728" height="857" alt="dashboard 2" src="https://github.com/user-attachments/assets/77334ad5-acaa-49e8-80ba-40e1e4b49906" />
+**Featured Project:** [Coles Retail Performance Dashboard (Microsoft Excel)](https://github.com/emmanuelajayi-data/coles-retail-performance-dashboard)
 
 ### Hi there, I'm Emmanuel Ajayi 👋
 
